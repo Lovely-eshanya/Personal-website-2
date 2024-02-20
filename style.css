@@ -1,0 +1,29 @@
+body {
+text-align:center;
+
+}
+ h1{
+
+ 
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+ }
+ h2,h3,h4,h5,h6 {
+
+
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  padding-left: 120px !important;
+  padding-right: 120px !important;
+
+ }
+ img{
+    width: 200px;
+    height: 200px;
+    border:  10px groove black;
+    padding:20px;
+ }
